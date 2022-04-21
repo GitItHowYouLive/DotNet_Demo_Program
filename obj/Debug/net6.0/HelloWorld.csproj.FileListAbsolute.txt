@@ -1,0 +1,15 @@
+C:\Users\Terrence\Desktop\Repos\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\Terrence\Desktop\Repos\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\Terrence\Desktop\Repos\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\Terrence\Desktop\Repos\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\Terrence\Desktop\Repos\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\Terrence\Desktop\Repos\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Terrence\Desktop\Repos\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\Repos\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\Repos\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\Repos\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\Repos\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\Terrence\Desktop\Repos\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Users\Terrence\Desktop\Repos\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\Terrence\Desktop\Repos\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Terrence\Desktop\Repos\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
